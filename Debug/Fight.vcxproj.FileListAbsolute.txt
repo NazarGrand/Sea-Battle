@@ -1,0 +1,4 @@
+D:\Морський бій\Fight\Fight\Debug\Fight.GameForm.resources
+D:\Морський бій\Fight\Fight\Debug\Fight.MyForm.resources
+D:\Морський бій\Fight\Fight\Debug\Fight.vcxproj.GenerateResource.cache
+D:\Морський бій\Fight\Fight\Debug\Fight.vcxproj.AssemblyReference.cache
